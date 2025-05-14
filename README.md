@@ -85,11 +85,14 @@ A powerful bash script is provided inside `/opt/ad-tools` to download and config
 - enum4linux, winrm, noPac, PetitPotam, Mimikatz, and many more
 - Offline tools: Hashcat, ADExplorer, PingCastle
 
+### 🧠  Installation Steps
+
 
 ```bash
-# AD Tool Installer (excerpt)
-./install-ad-tools.sh
 
-
-
+# Ensure you run the script with a user that has sudo privileges and a stable internet connection.
+git clone https://github.com/your-org/dis-red-os.git
+cd dis-red-os
+chmod +x install-dis-red-tools.sh
+./install-dis-red-tools.sh
 
