@@ -1,0 +1,57 @@
+🛡️ Red Team OS — Installation Guide (VMware Image)
+A custom-built Red Team Operating System pre-loaded with offensive security tools and configurations, optimized for adversary simulations and real-world cyber exercises.
+
+📥 Step 1: Download the Prebuilt VM
+Download the exported virtual machine image from the following Google Drive link:
+
+🔗 Download Red Team OS : https://drive.google.com/file/d/1G_n_nOdZL0Fe77g9_GD6iSe1jEvbKMEg/view?usp=sharing
+
+📦 Step 2: Extract the Files
+Once the .zip or .7z archive is downloaded:
+
+Extract it using a utility like WinRAR, 7-Zip, or macOS Archive Utility.
+
+You should see the following files after extraction:
+
+kali-linux-2025.1a-vmware-amd64.ovf
+
+kali-linux-2025.1a-vmware-amd64-disk1.vmdk
+
+💻 Step 3: Import into VMware
+Open VMware Workstation or VMware Fusion.
+
+Go to File → Open.
+
+Select the .ovf file (kali-linux-2025.1a-vmware-amd64.ovf).
+
+Click Continue and follow the on-screen instructions to import the VM.
+
+Once imported, start the VM.
+
+🛠️ Default Credentials (If Applicable)
+Username: root or kali
+
+Password: toor or kali
+
+(You may change this based on your hardened image settings.)
+
+🧰 Included Tools
+Cloud Enumeration
+
+Exploitation Frameworks
+
+Privilege Escalation Scripts
+
+Recon Tools
+
+Wireless & RF Testing Utilities
+
+(Refer to tools.md for the full list if bundled.)
+
+🧯 Tips
+Make sure virtualization is enabled in BIOS/EFI.
+
+Allocate at least 4 CPU cores, 8GB RAM, and 30GB+ disk space for smooth performance.
+
+Take a snapshot after the first boot for rollback.
+
