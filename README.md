@@ -85,6 +85,11 @@ A powerful bash script is provided inside `/opt/ad-tools` to download and config
 - enum4linux, winrm, noPac, PetitPotam, Mimikatz, and many more
 - Offline tools: Hashcat, ADExplorer, PingCastle
 
+
+### OS Installation
+
+Download OS : https://drive.google.com/file/d/1G_n_nOdZL0Fe77g9_GD6iSe1jEvbKMEg/view?usp=sharing
+
 ### 🧠  Installation Steps
 
 
