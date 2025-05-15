@@ -1,8 +1,8 @@
 # DIS_Red_OS
 DIS Red OS is a specialized, Debian-based virtual machine built exclusively for internal Red Team operations at corporate offices and enterprise environments. Designed by red teamers, for red teamers this OS equips security professionals with an extensive, preconfigured arsenal of offensive tools, frameworks, and scripts used in redteam attacks.
-## 🔴 DIS Red OS – Debian-based Red Team Operating System
+## 🔴 DIS Red OS | Debian-based Red Team Operating System
 
-**DIS Red OS** is a custom-built Debian-based virtual machine designed exclusively for Red Team operations within enterprise and corporate environments. Built by real-world red teamers, it comes preloaded with **battle-tested tools**, **field-proven scripts**, and **a curated arsenal of frameworks** for end-to-end adversary simulation, post-exploitation, and cloud/network security assessments.
+**DIS Red OS** is a custom built Debian based virtual machine designed exclusively for Red Team operations within enterprise and corporate environments. Built by real-world red teamers, it comes preloaded with **battle-tested tools**, **field-proven scripts**, and **a curated arsenal of frameworks** for end-to-end adversary simulation, post-exploitation, and cloud/network security assessments.
 
 ## ✅ Built for real operations
 
