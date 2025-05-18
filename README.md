@@ -95,9 +95,7 @@ Download OS : https://drive.google.com/file/d/1G_n_nOdZL0Fe77g9_GD6iSe1jEvbKMEg/
 # Ensure you run the script with a user that has sudo privileges and a stable internet connection.
 ```bash
 
-
-git clone https://github.com/your-org/dis-red-os.git](https://github.com/hackersatyamrastogi/DIS_Red_OS.git
+https://github.com/hackersatyamrastogi/DIS_Red_OS.git
 cd dis-red-os
 chmod +x install-dis-red-tools.sh
 ./install-dis-red-tools.sh
-
